@@ -1,0 +1,10 @@
+.dart_tool
+.idea
+build
+.metadata
+*.log
+*.iml
+*.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
